@@ -2,6 +2,8 @@
 
 基于 pytest + allure 的 API 接口自动化测试框架
 
+[![Run Tests](https://github.com/u1219437219-cmyk/pytest_api1025/actions/workflows/test.yml/badge.svg)](https://github.com/u1219437219-cmyk/pytest_api1025/actions)
+
 ## 项目结构
 
 ```
